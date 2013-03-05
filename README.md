@@ -1,6 +1,6 @@
-Inflikr mobile
+infli·kr - flickr for mobile people
 ===============
 
-infli·kr - flickr for mobile people
+Mobile version of http://inflickr.cloudfoundry.com
 
-Android comming soon, iOS later...
+Android served first, iOS later...
