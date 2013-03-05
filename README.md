@@ -1,4 +1,4 @@
-inflickr_mobile
+Inflikr mobile
 ===============
 
 infli·kr - flickr for mobile people
