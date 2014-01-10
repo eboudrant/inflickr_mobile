@@ -1,10 +1,7 @@
 infli·kr - flickr for mobile people
 ===============
 
-Mobile version of http://inflickr.cloudfoundry.com
-
-Android first-served, iOS later...
-The APK can be built from sources however a complete version is avaible on Google Play Store
+The APK can be built from sources however a complete version is avaible on Google Play Store.
 
 <a href="https://play.google.com/store/apps/details?id=kr.infli">
   <img alt="Android app on Google Play"
